@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "title": "If it bleeds",
+      "author": "Stephen King",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51G10exOuIL._SX327_BO1,204,203,200_.jpg",
+      "description": "The novella is a form King has returned to over and over again in the course of his amazing career, and many have been made into iconic films, including “The Body” (Stand By Me) and “Rita Hayworth and Shawshank Redemption” (Shawshank Redemption). Like Four Past Midnight, Different Seasons, and most recently Full Dark, No Stars, If It Bleeds is a uniquely satisfying collection of longer short fiction by an incomparably gifted writer.",
+      "id": 1
+    },
+    {
+      "title": "The silent patient",
+      "author": "Alex Michaelides",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41bsvxNUSdL._SX327_BO1,204,203,200_.jpg",
+      "description": "Suspense",
+      "id": 2
+    },
+    {
+      "title": "The institute",
+      "author": "Stephen King",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51TNIcVTzPL._SX327_BO1,204,203,200_.jpg",
+      "description": "In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis’s parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there’s no window. And outside his door are other doors, behind which are other kids with special talents—telekinesis and telepathy—who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and ten-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, “like the roach motel,” Kalisha says. “You check in, but you don’t check out.”",
+      "id": 3
+    }
+  ]
+}
